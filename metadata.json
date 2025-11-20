@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora da Lei de Ohm",
+  "description": "Uma calculadora simples da Lei de Ohm que determina tensão, corrente ou resistência a partir de dois valores fornecidos, com suporte a diversas unidades de medida.",
+  "requestFramePermissions": []
+}
