@@ -144,6 +144,9 @@ const App: React.FC = () => {
           </Button>
         </div>
       </div>
+      <p className="mt-4 text-gray-400 text-xl">
+        Programação Professor Marcio Costa
+      </p>
     </div>
   );
 };
